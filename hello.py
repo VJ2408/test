@@ -10,3 +10,4 @@ while a<b:
     print("hello there, I am obiwan kenobi")
     a = a+1
 print("finished testing for memory leaks")
+print("Goodbye now")
